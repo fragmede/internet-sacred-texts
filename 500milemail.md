@@ -1,6 +1,5 @@
 ---
-title: The case of the 500-mile email (was RE: [SAGE] Favorite impossible
-    task?)
+title: The case of the 500-mile email \(was RE\: \[SAGE\] Favorite impossible task?\)
 date: '2002-11-24'
 original_source: Email
 source: https://www.ibiblio.org/harris/500milemail.html
