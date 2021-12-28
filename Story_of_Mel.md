@@ -1,5 +1,5 @@
 ---
-title: 'The_Story_of_Mel'
+title: 'The Story of Mel'
 date: '1983-05-21'
 original_source: Usenet
 source: http://catb.org/jargon/html/story-of-mel.html
