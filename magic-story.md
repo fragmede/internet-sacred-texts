@@ -50,15 +50,14 @@ The computer promptly crashed.
 This time we ran for Richard Greenblatt, a long-time MIT hacker, who was
 close at hand. He had never noticed the switch before, either. He inspected
 it, concluded it was useless, got some diagonal cutters and
-[_dike_](D/dike.html) d it out. We then revived the computer and it has
+*diked* it out. We then revived the computer and it has
 run fine ever since.
 
 We still don't know how the switch crashed the machine. There is a
 theory that some circuit near the ground pin was marginal, and flipping the
 switch changed the electrical capacitance enough to upset the circuit as
 millionth-of-a-second pulses went through it. But we'll never know for sure;
-all we can really say is that the switch was
-[_magic_](M/magic.html).
+all we can really say is that the switch was *magic*.
 
 I still have that switch in my basement. Maybe I'm silly, but I usually
 keep it set on ‘more magic’.
@@ -73,8 +72,3 @@ flipping the switch connected the circuit ground to the case ground, causing a
 voltage drop/jump which reset the machine. This was probably discovered by
 someone who found out the hard way that there was a potential difference
 between the two, and who then wired in the switch as a joke.
-
-* * *
-
-[Prev](tv-typewriters.html)[Up](appendixa.html)[Next](koans.html)TV Typewriters: A Tale of Hackish Ingenuity [Home](index.html) Some AI Koans
-
