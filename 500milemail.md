@@ -6,6 +6,8 @@ source: https://www.ibiblio.org/harris/500milemail.html
 author: Trey Harris <trey@sage.org>
 ---
 
+Seel also: [FAQ](500milemail-faq.html)
+
 From trey@sage.org Fri Nov 29 18:00:49 2002
 Date: Sun, 24 Nov 2002 21:03:02 -0500 (EST)
 From: Trey Harris <trey@sage.org>
